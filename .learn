@@ -1,9 +1,0 @@
-tags:
-  - orm
-  - active record
-languages:
-  - Ruby
-resources:
-  - 0
-
-parent_template: git@github.com:learn-co-curriculum/translating-orm-to-ar.git
